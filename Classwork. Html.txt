@@ -11,7 +11,7 @@
   <body>
     <div
       id="clickme"
-      style="width: 1000px; height: 800px; background-color: aqua"
+      style="width: 800px; height: 600px; background-color: aqua"
     ></div>
     <a href="" id="changeColor">Change color</a>
 
